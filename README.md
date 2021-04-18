@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on GItHub, Slack, Discord, .., anything
 - 📫 How to reach me 
     Email: ysriyansreddy@gmail.com
-- About me: I've started coding since 2015. First, I learnt Web Development and I am still learning the peak levels of Web Developement. I'm also learning App Development and almost done with basics.
+- About me: I've started coding since 2015. First, I learnt Web Development and I am still learning the peak levels of Web Developement. I'm also learning App Development and almost       done with basics.
+-
     
 
 <!---
