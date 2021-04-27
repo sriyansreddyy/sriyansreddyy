@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sriyans Reddy from Hyderbad, India. My GitHub username: @sriyansreddyy
+- 👋 Hi, I’m Sriyans Reddy from Hyderbad, India.
 - 👀 I’m interested in Web Development and App Development
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on GItHub, Slack, Discord, .., anything
@@ -6,6 +6,8 @@
     Email: ysriyansreddy@gmail.com
 - About me: I've started coding since 2015. First, I learnt Web Development and I am still learning the peak levels of Web Developement. I'm also learning App Development and almost       done with basics.
 -Student at @Scrimba
+-An Expert Photgrapher (espicially wildlife photography
+
     
 
 <!---
