@@ -6,7 +6,7 @@
     Email: ysriyansreddy@gmail.com
 - About me: I've started coding since 2015. First, I learnt Web Development and I am still learning the peak levels of Web Developement. I'm also learning App Development and almost       done with basics.
 -Student at @Scrimba
--An Expert Photgrapher (espicially wildlife photography
+-An Expert Photgrapher (espicially wildlife photography)
 
     
 
